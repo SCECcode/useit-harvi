@@ -1,1 +1,1 @@
-# UseIT Hazard and Risk Visualization Team
+# UseIT Hazard and Risk Visualization Team (HaRVi)
